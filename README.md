@@ -1,4 +1,5 @@
 # lora_network
+
 A short guide to set up a gateway to the lora network 
 
 1. sudo apt-get install git
@@ -11,13 +12,19 @@ A short guide to set up a gateway to the lora network
 8. sudo make install
 
 Commands:
+
 systemctl start dual_chan_pkt_fwd
+
 systemctl stop dual_chan_pkt_fwd
+
 systemctl status dual_chan_pkt_fwd
 
 To see gateway log in real time:
+
 sudo journalctl -f -u dual_chan_pkt_fwd
 
-references: 
+references:
+
 http://www.dragino.com/downloads/downloads/LoRa-GPS-HAT/LoRa_GPS_HAT_UserManual_v1.0.pdf
+
 https://github.com/Lora-net/packet_forwarder/wiki/Use-with-Raspberry-Pi
