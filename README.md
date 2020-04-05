@@ -54,3 +54,6 @@ Raspberry PI
 https://raspberrytips.com/add-microphone-raspberry-pi/
 
 https://learn.adafruit.com/usb-audio-cards-with-a-raspberry-pi/figure-out-your-chipset
+
+https://www.scipy.org/install.html
+
