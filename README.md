@@ -41,6 +41,8 @@ https://www.dragino.com/news/item/107-dragino-release-lora-gps-hat.html
 
 http://www.iot.org.au/wp/wp-content/uploads/2016/12/IoTSpectrumFactSheet.pdf
 
+https://wiki.dragino.com/index.php?title=Getting_GPS_to_work_on_Raspberry_Pi_3_Model_B (GPS)
+
 Support:
 
 support@dragino.com
