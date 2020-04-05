@@ -57,3 +57,5 @@ https://learn.adafruit.com/usb-audio-cards-with-a-raspberry-pi/figure-out-your-c
 
 https://www.scipy.org/install.html
 
+https://gist.github.com/notalentgeek/48aeab398b6b74e3a9134a61b6b79a36
+
