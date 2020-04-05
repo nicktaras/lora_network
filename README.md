@@ -40,3 +40,7 @@ https://www.dragino.com/products/lora/item/149-lora-gps-hat.html
 https://www.dragino.com/news/item/107-dragino-release-lora-gps-hat.html
 
 http://www.iot.org.au/wp/wp-content/uploads/2016/12/IoTSpectrumFactSheet.pdf
+
+Support:
+
+support@dragino.com
