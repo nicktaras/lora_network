@@ -59,3 +59,8 @@ https://www.scipy.org/install.html
 
 https://gist.github.com/notalentgeek/48aeab398b6b74e3a9134a61b6b79a36
 
+Useful CLI CMDs'
+
+- pydoc modules, check modules are correctly installed
+- arecord -D plughw:1,0 test.wav (Record from default mic input - steam to output of test.wav)
+
