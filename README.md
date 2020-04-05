@@ -28,3 +28,15 @@ references:
 http://www.dragino.com/downloads/downloads/LoRa-GPS-HAT/LoRa_GPS_HAT_UserManual_v1.0.pdf
 
 https://github.com/Lora-net/packet_forwarder/wiki/Use-with-Raspberry-Pi
+
+https://www.dragino.com/products/lora/item/106-lora-gps-hat.html
+
+https://wiki.dragino.com/index.php?title=Lora/GPS_HAT
+
+http://wiki.dragino.com/index.php?title=Use_Lora/GPS_HAT_%2B_RaspberryPi_to_set_up_a_Lora_Node
+
+https://www.dragino.com/products/lora/item/149-lora-gps-hat.html
+
+https://www.dragino.com/news/item/107-dragino-release-lora-gps-hat.html
+
+http://www.iot.org.au/wp/wp-content/uploads/2016/12/IoTSpectrumFactSheet.pdf
