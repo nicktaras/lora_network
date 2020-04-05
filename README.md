@@ -46,3 +46,7 @@ https://wiki.dragino.com/index.php?title=Getting_GPS_to_work_on_Raspberry_Pi_3_M
 Support:
 
 support@dragino.com
+
+Raspberry PI
+
+https://raspberrytips.com/add-microphone-raspberry-pi/
