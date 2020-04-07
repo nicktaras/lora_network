@@ -61,6 +61,12 @@ https://gist.github.com/notalentgeek/48aeab398b6b74e3a9134a61b6b79a36
 
 https://github.com/aubio/aubio/issues/78
 
+https://stackoverflow.com/questions/33851379/pyaudio-installation-on-mac-python-3
+xcode-select --install
+brew remove portaudio
+brew install portaudio
+pip3 install pyaudio
+
 Useful CLI CMDs'
 
 - pydoc modules, check modules are correctly installed
