@@ -59,6 +59,9 @@ https://www.scipy.org/install.html
 
 https://gist.github.com/notalentgeek/48aeab398b6b74e3a9134a61b6b79a36
 
+https://github.com/aubio/aubio/issues/78
+
+
 Useful CLI CMDs'
 
 - pydoc modules, check modules are correctly installed
