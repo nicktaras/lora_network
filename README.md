@@ -75,6 +75,8 @@ https://github.com/aubio/aubio/blob/master/python/demos/demo_pyaudio.py
 
 https://aubio.org/doc/latest/
 
+https://wiki.python.org/moin/PythonInMusic
+
 Useful CLI CMDs'
 
 - pydoc modules, check modules are correctly installed
