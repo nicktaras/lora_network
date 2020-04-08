@@ -77,6 +77,8 @@ https://aubio.org/doc/latest/
 
 https://wiki.python.org/moin/PythonInMusic
 
+http://librosa.github.io/librosa/feature.html
+
 Useful CLI CMDs'
 
 - pydoc modules, check modules are correctly installed
