@@ -67,6 +67,8 @@ brew remove portaudio
 brew install portaudio
 pip3 install pyaudio
 
+https://aubio.org/doc/latest/
+
 Useful CLI CMDs'
 
 - pydoc modules, check modules are correctly installed
