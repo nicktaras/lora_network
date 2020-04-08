@@ -45,6 +45,8 @@ https://wiki.dragino.com/index.php?title=Getting_GPS_to_work_on_Raspberry_Pi_3_M
 
 https://console.thethingsnetwork.org/gateways
 
+https://larsimmisch.github.io/pyalsaaudio/pyalsaaudio.html
+
 Support:
 
 support@dragino.com
