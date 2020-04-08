@@ -69,6 +69,8 @@ brew remove portaudio
 brew install portaudio
 pip3 install pyaudio
 
+https://github.com/tyiannak/pyAudioAnalysis
+
 https://github.com/aubio/aubio/blob/master/python/demos/demo_pyaudio.py
 
 https://aubio.org/doc/latest/
