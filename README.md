@@ -72,3 +72,5 @@ Useful CLI CMDs'
 - pydoc modules, check modules are correctly installed
 - arecord -D plughw:1,0 test.wav (Record from default mic input - steam to output of test.wav)
 - brew switch python 3.6.5_1 for pyAudio
+
+reading: https://github.com/Adobe-Marketing-Cloud/aem-dialog-conversion/blob/master/content/jcr_root/libs/cq/dialogconversion/content/sample/classic/dialog/.content.xml
